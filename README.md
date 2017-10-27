@@ -1,4 +1,5 @@
 # Practice of venv in Python
+[![Build Status](https://travis-ci.org/nwtgck/python-venv-prac.svg?branch=master)](https://travis-ci.org/nwtgck/python-venv-prac)
  
 ## Purpose
 
