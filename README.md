@@ -38,6 +38,12 @@ Click the green ▶ button, which is located in line 3 to run the program.
 
 In PyCharm, the terminal is in `activate` automatically.
 
+## How to generate `requirements.txt`
+
+```bash
+$ ./pip-freeze.sh
+```
+
 # References
 
 * https://python.civic-apps.com/python-build-env/
